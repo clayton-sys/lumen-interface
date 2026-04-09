@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lumen-memory": {
+      "command": "py",
+      "args": ["-3.12", "C:\\Users\\17192\\memory_server.py"]
+    }
+  }
+}
